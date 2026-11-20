@@ -113,7 +113,7 @@ flowchart TB
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/DISMUS333/voivent-mv-studio.git
+git clone https://github.com/cdismus4/voivent-mv-studio.git
 cd voivent-mv-studio
 
 # Install dependencies
